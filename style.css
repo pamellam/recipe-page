@@ -148,7 +148,7 @@ ol li::marker {
   .cover__photo {
     border-radius: 14px;
     width: 100%;
-    height: 20vh;
+    height: 40vh;
   }
 
   .cover__photo img{
