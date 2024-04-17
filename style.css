@@ -48,6 +48,9 @@ ol li::marker {
   color: hsl(14, 45%, 36%);
 }
 
+.recipe__wrapper {
+  display: none;
+}
 .cover__photo {
   margin: 0;
   padding: 0;
